@@ -1,6 +1,6 @@
 # flutter_swarm_game
 
-A new Flutter application.
+Swarm game. Get rid of all the enemies before they swarm you.
 
 ## Getting Started
 
